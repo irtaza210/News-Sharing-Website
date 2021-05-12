@@ -1,0 +1,11 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E8F8F5;
+    text-align: center;
+}
+.loginform, .usernamelabel, .usernameinput, .passwordlabel, .passwordinput {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}

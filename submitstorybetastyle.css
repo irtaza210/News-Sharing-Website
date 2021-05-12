@@ -1,0 +1,27 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E8F8F5;
+}
+.submitform, .storynamelabel,  .storyauthorlabel, .storybodylabel, .storylinklabel{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.storynameinput, .storyauthorinput, .storylinkinput, .submitbutton {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    background-color: white;
+}
+.storybodyinput {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+    
+}
+.storybodyinput {
+    min-height: 200px;
+}

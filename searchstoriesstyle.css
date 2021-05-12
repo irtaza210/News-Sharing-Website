@@ -1,0 +1,8 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color:#E8F8F5;
+    text-align: center;
+}
+input[type=submit] {
+    background-color: white;
+}
