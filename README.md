@@ -1,4 +1,5 @@
 # News-Sharing-Website
+http://ec2-18-220-113-105.us-east-2.compute.amazonaws.com/~irtaza330/homepage2.php
 
 <img width="1440" alt="Screen Shot 2021-05-12 at 12 11 09 PM" src="https://user-images.githubusercontent.com/54458381/118016651-43540200-b31b-11eb-968b-bab5f69a1527.png">
 
